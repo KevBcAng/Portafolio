@@ -1,0 +1,15 @@
+@import "./main.css";
+@import "./contact.css";
+@import "./experience.css";
+@import "./fonts.css";
+@import "./header.css";
+@import "./nav.css";
+@import "./portfolio.css";
+@import "./sections.css";
+@import "./skillset.css";
+@import "./utils.css";
+
+/** Accediendo desde libreria NPM  */
+@import "../../../node_modules/normalize.css/normalize.css";
+/** Libreria NPM para modal */
+@import "../../../node_modules/eins-modal/dist/css/eins-modal.min.css"
